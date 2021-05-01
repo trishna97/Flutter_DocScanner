@@ -1,0 +1,256 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\android\app\src\main\AndroidManifest.xml:1:1-40:12
+INJECTED from C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\android\app\src\main\AndroidManifest.xml:1:1-40:12
+INJECTED from C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\android\app\src\main\AndroidManifest.xml:1:1-40:12
+INJECTED from C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\android\app\src\main\AndroidManifest.xml:1:1-40:12
+MERGED from C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\android\app\src\main\AndroidManifest.xml:1:1-40:12
+MERGED from [:image_cropper] C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\build\image_cropper\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_image_compress] C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\build\flutter_image_compress\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:image_picker] C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-22:12
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:path_provider] C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\build\path_provider\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_full_pdf_viewer] C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\build\flutter_full_pdf_viewer\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [com.github.yalantis:ucrop:2.2.3] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\jetified-ucrop-2.2.3.aar\e50aac695fbca3766f6ba10279032650\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\exifinterface-1.3.0.aar\1e85db1fe090c82236fdded533121b8b\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\d4809fbae9f0572e90831fae1b3dd440\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0.aar\9a84acee5cc530d303c073b8975579ee\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.barteksc:android-pdf-viewer:2.8.2] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\jetified-android-pdf-viewer-2.8.2.aar\88e87f44ea7c76f6ee4ba004fb5dc18f\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.barteksc:pdfium-android:1.7.1] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\jetified-pdfium-android-1.7.1.aar\8485283c93fe36d9cca7e33cc4918bf4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\f645f70914bbb463c53e276857fb3a20\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0.aar\ebc987d227eba231316a9c1704bfde40\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\946092970535bb71bc8fff0fc09c77fc\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\41f4bac5ca700a6e68b0ef5f0c551d5c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\744e5385ca52d6eba7cd55982a8403b9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\db69b8f9354ea3c013dd1a7de848c85c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\709c4438632a3bb97459cf0cfc5f6078\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\1e7638bf4a7234cfa2d4ca91efd8758b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\activity-1.0.0.aar\6c34ae1cf65f20da2c07950ceaacfcaa\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0.aar\5cba286beda49a069a8c1060cfe86737\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\transition-1.0.0.aar\e82938907b98a29fb2694e1e5339ec60\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\240f8c470bc03d508df957ebadb7a288\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\9085f0c925743465c80d62c392184558\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\9634b658f65c0755bf9e7d7660c12480\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\a133ab9249520b170be4ecb58162b67b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\d4431075139d8ef14eaf72819032f726\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\15dcfd7b29da316c9eeddc1b4e0e6700\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\1df68d580c8053ff87cc30f2c5d36e9f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\30e4ae4ce1e52b5a9d8d9b1f1e0dedda\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.2.0.aar\f405340e5c84f7a8144d627cfd426942\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\savedstate-1.0.0.aar\dd4b17e11d1fdb1d51709196d3afc3cd\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\891a3bffc0f4119a353b4cd8fb2efb36\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\303a3feaa1b139455dd7925f5884ffae\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\25f28ca1e1e6afc2f25e3ad372cb01ed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\ef17eb624a4e2e1737403459b0210d56\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\43baab90177507bda09263adf1e79a59\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\ce8a2cdef6ad4fee2dc4d55b2df4345c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.1.0.aar\f0aa74b21cc4cd12dffd0c48cb812621\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\3a75da70e9dbe73e73a1b3857dbf2792\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\6a50c73040c5afb88dbecba16f521db0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\036c360d27bc899e1dc2218d8f5ec66b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\3412935d38bd2e28b41c660e7a824674\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\android\app\src\main\AndroidManifest.xml:2:5-59
+		INJECTED from C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\android\app\src\main\AndroidManifest.xml:1:1-40:12
+		INJECTED from C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\android\app\src\debug\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\android\app\src\main\AndroidManifest.xml:1:1-40:12
+		INJECTED from C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\android\app\src\main\AndroidManifest.xml:9:10-85
+MERGED from [:image_picker] C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-81
+MERGED from [:image_picker] C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\android\app\src\main\AndroidManifest.xml:9:27-83
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\android\app\src\main\AndroidManifest.xml:10:11-85
+MERGED from [:image_picker] C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-80
+MERGED from [:image_picker] C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\android\app\src\main\AndroidManifest.xml:10:28-83
+application
+ADDED from C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\android\app\src\main\AndroidManifest.xml:11:5-39:19
+MERGED from [:image_picker] C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-20:19
+MERGED from [:image_picker] C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-20:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\d4809fbae9f0572e90831fae1b3dd440\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\d4809fbae9f0572e90831fae1b3dd440\AndroidManifest.xml:22:5-20
+MERGED from [androidx.core:core:1.1.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\30e4ae4ce1e52b5a9d8d9b1f1e0dedda\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\30e4ae4ce1e52b5a9d8d9b1f1e0dedda\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\ef17eb624a4e2e1737403459b0210d56\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\ef17eb624a4e2e1737403459b0210d56\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\30e4ae4ce1e52b5a9d8d9b1f1e0dedda\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\android\app\src\main\AndroidManifest.xml:13:9-57
+	android:icon
+		ADDED from C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\android\app\src\main\AndroidManifest.xml:14:9-43
+	android:name
+		ADDED from C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\android\app\src\main\AndroidManifest.xml:12:9-57
+activity#com.example.flutter_click_pick_crop_compress.MainActivity
+ADDED from C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\android\app\src\main\AndroidManifest.xml:15:9-34:20
+	android:launchMode
+		ADDED from C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\android\app\src\main\AndroidManifest.xml:17:13-43
+	android:hardwareAccelerated
+		ADDED from C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\android\app\src\main\AndroidManifest.xml:20:13-47
+	android:windowSoftInputMode
+		ADDED from C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\android\app\src\main\AndroidManifest.xml:21:13-55
+	android:configChanges
+		ADDED from C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\android\app\src\main\AndroidManifest.xml:19:13-144
+	android:theme
+		ADDED from C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\android\app\src\main\AndroidManifest.xml:18:13-47
+	android:name
+		ADDED from C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\android\app\src\main\AndroidManifest.xml:16:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\android\app\src\main\AndroidManifest.xml:27:13-29:40
+	android:value
+		ADDED from C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\android\app\src\main\AndroidManifest.xml:29:17-37
+	android:name
+		ADDED from C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\android\app\src\main\AndroidManifest.xml:28:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\android\app\src\main\AndroidManifest.xml:30:13-33:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\android\app\src\main\AndroidManifest.xml:31:17-68
+	android:name
+		ADDED from C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\android\app\src\main\AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\android\app\src\main\AndroidManifest.xml:32:17-76
+	android:name
+		ADDED from C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\android\app\src\main\AndroidManifest.xml:32:27-74
+activity#com.yalantis.ucrop.UCropActivity
+ADDED from C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\android\app\src\main\AndroidManifest.xml:35:9-38:75
+	android:screenOrientation
+		ADDED from C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\android\app\src\main\AndroidManifest.xml:37:17-53
+	android:theme
+		ADDED from C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\android\app\src\main\AndroidManifest.xml:38:17-73
+	android:name
+		ADDED from C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\android\app\src\main\AndroidManifest.xml:36:17-64
+uses-sdk
+INJECTED from C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\android\app\src\main\AndroidManifest.xml
+MERGED from [:image_cropper] C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\build\image_cropper\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:image_cropper] C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\build\image_cropper\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_image_compress] C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\build\flutter_image_compress\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_image_compress] C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\build\flutter_image_compress\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:image_picker] C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\build\path_provider\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\build\path_provider\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_full_pdf_viewer] C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\build\flutter_full_pdf_viewer\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_full_pdf_viewer] C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\build\flutter_full_pdf_viewer\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [com.github.yalantis:ucrop:2.2.3] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\jetified-ucrop-2.2.3.aar\e50aac695fbca3766f6ba10279032650\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.3] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\jetified-ucrop-2.2.3.aar\e50aac695fbca3766f6ba10279032650\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\exifinterface-1.3.0.aar\1e85db1fe090c82236fdded533121b8b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\exifinterface-1.3.0.aar\1e85db1fe090c82236fdded533121b8b\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\d4809fbae9f0572e90831fae1b3dd440\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\d4809fbae9f0572e90831fae1b3dd440\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0.aar\9a84acee5cc530d303c073b8975579ee\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0.aar\9a84acee5cc530d303c073b8975579ee\AndroidManifest.xml:20:5-44
+MERGED from [com.github.barteksc:android-pdf-viewer:2.8.2] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\jetified-android-pdf-viewer-2.8.2.aar\88e87f44ea7c76f6ee4ba004fb5dc18f\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.barteksc:android-pdf-viewer:2.8.2] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\jetified-android-pdf-viewer-2.8.2.aar\88e87f44ea7c76f6ee4ba004fb5dc18f\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.barteksc:pdfium-android:1.7.1] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\jetified-pdfium-android-1.7.1.aar\8485283c93fe36d9cca7e33cc4918bf4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.barteksc:pdfium-android:1.7.1] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\jetified-pdfium-android-1.7.1.aar\8485283c93fe36d9cca7e33cc4918bf4\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\f645f70914bbb463c53e276857fb3a20\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\f645f70914bbb463c53e276857fb3a20\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0.aar\ebc987d227eba231316a9c1704bfde40\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0.aar\ebc987d227eba231316a9c1704bfde40\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\946092970535bb71bc8fff0fc09c77fc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\946092970535bb71bc8fff0fc09c77fc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\41f4bac5ca700a6e68b0ef5f0c551d5c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\41f4bac5ca700a6e68b0ef5f0c551d5c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\744e5385ca52d6eba7cd55982a8403b9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\744e5385ca52d6eba7cd55982a8403b9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\db69b8f9354ea3c013dd1a7de848c85c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\db69b8f9354ea3c013dd1a7de848c85c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\709c4438632a3bb97459cf0cfc5f6078\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\709c4438632a3bb97459cf0cfc5f6078\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\1e7638bf4a7234cfa2d4ca91efd8758b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\1e7638bf4a7234cfa2d4ca91efd8758b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\activity-1.0.0.aar\6c34ae1cf65f20da2c07950ceaacfcaa\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\activity-1.0.0.aar\6c34ae1cf65f20da2c07950ceaacfcaa\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0.aar\5cba286beda49a069a8c1060cfe86737\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0.aar\5cba286beda49a069a8c1060cfe86737\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\transition-1.0.0.aar\e82938907b98a29fb2694e1e5339ec60\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\transition-1.0.0.aar\e82938907b98a29fb2694e1e5339ec60\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\240f8c470bc03d508df957ebadb7a288\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\240f8c470bc03d508df957ebadb7a288\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\9085f0c925743465c80d62c392184558\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\9085f0c925743465c80d62c392184558\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\9634b658f65c0755bf9e7d7660c12480\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\9634b658f65c0755bf9e7d7660c12480\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\a133ab9249520b170be4ecb58162b67b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\a133ab9249520b170be4ecb58162b67b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\d4431075139d8ef14eaf72819032f726\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\d4431075139d8ef14eaf72819032f726\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\15dcfd7b29da316c9eeddc1b4e0e6700\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\15dcfd7b29da316c9eeddc1b4e0e6700\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\1df68d580c8053ff87cc30f2c5d36e9f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\1df68d580c8053ff87cc30f2c5d36e9f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\30e4ae4ce1e52b5a9d8d9b1f1e0dedda\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\30e4ae4ce1e52b5a9d8d9b1f1e0dedda\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.2.0.aar\f405340e5c84f7a8144d627cfd426942\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.2.0.aar\f405340e5c84f7a8144d627cfd426942\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\savedstate-1.0.0.aar\dd4b17e11d1fdb1d51709196d3afc3cd\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\savedstate-1.0.0.aar\dd4b17e11d1fdb1d51709196d3afc3cd\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\891a3bffc0f4119a353b4cd8fb2efb36\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\891a3bffc0f4119a353b4cd8fb2efb36\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\303a3feaa1b139455dd7925f5884ffae\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\303a3feaa1b139455dd7925f5884ffae\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\25f28ca1e1e6afc2f25e3ad372cb01ed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\25f28ca1e1e6afc2f25e3ad372cb01ed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\ef17eb624a4e2e1737403459b0210d56\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\ef17eb624a4e2e1737403459b0210d56\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\43baab90177507bda09263adf1e79a59\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\43baab90177507bda09263adf1e79a59\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\ce8a2cdef6ad4fee2dc4d55b2df4345c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\ce8a2cdef6ad4fee2dc4d55b2df4345c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.1.0.aar\f0aa74b21cc4cd12dffd0c48cb812621\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.1.0.aar\f0aa74b21cc4cd12dffd0c48cb812621\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\3a75da70e9dbe73e73a1b3857dbf2792\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\3a75da70e9dbe73e73a1b3857dbf2792\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\6a50c73040c5afb88dbecba16f521db0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\6a50c73040c5afb88dbecba16f521db0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\036c360d27bc899e1dc2218d8f5ec66b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\036c360d27bc899e1dc2218d8f5ec66b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\3412935d38bd2e28b41c660e7a824674\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\3412935d38bd2e28b41c660e7a824674\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\android\app\src\debug\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\android\app\src\debug\AndroidManifest.xml:6:22-64
+provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
+ADDED from [:image_picker] C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:11:9-19:20
+	android:grantUriPermissions
+		ADDED from [:image_picker] C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-47
+	android:authorities
+		ADDED from [:image_picker] C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-74
+	android:exported
+		ADDED from [:image_picker] C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-37
+	android:name
+		ADDED from [:image_picker] C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:12:13-82
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:image_picker] C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-18:75
+	android:resource
+		ADDED from [:image_picker] C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:18:17-72
+	android:name
+		ADDED from [:image_picker] C:\Users\Lenovo\Flutter_Click_Pick_Crop_Compress-master\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:17:17-67
